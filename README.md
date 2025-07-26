@@ -1,1 +1,1 @@
-#This repo was created when i was learning git stuffs
+# This repo was created when i was learning git stuffs
